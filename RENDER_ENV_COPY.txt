@@ -1,0 +1,7 @@
+Paste these in Render → hormuud-projecthub → Environment:
+
+GROQ_API_KEY=(copy from your local .env file — line GROQ_API_KEY=...)
+
+DATABASE_URL=(paste from Supabase after Step 1 — Connection string URI)
+
+AI_PROVIDER=groq
